@@ -1,0 +1,9 @@
+name: FishingPlayerHeads
+main: com.fishingplayerheads.FishingPlayerHeads
+author: valkyrienyanko
+version: 1.0
+api-version: 1.13
+commands:
+   toggleheads:
+     description: Toggle heads to be gathered from config or players currently online in the game.
+     aliases: [th]
